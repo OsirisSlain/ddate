@@ -1,4 +1,3 @@
-*.suo
-obj/
 bin/
-.vs/
+obj/
+.vscode/
